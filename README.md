@@ -17,10 +17,8 @@ Talk to me about
 
 ## About me 🤔
 - I Love ❤️ programming
-- 🌱 I’m currently learning software development.
+- 🌱 I’m currently navigating through software development.
 - 👯 I’m looking to collaborate on any interesting projects.
-- 💬 Ask me about baking, my little vegetable garden, almost anything.
+- 💬 Ask me about baking, my little vegetable garden, ....almost anything.
 - 📫 How to reach me: depinder.saini87@gmail.com
 - ⚡ Fun fact: Your brain is constantly eating itself.  [Search Phagocytosis](https://www.google.com/search?q=phagocytosis&rlz=1C1JJTC_enSE1012SE1012&oq=phagocytosis&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDE3MTJqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8)
-
-
