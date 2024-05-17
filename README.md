@@ -17,7 +17,7 @@ Talk to me about
 
 ## About me 🤔
 - I Love ❤️ programming
-- 🌱 I’m currently diving deep into DSA.
+- 🌱 I’m currently diving deep 🤓💻 into DSA.
 - 👯 I’m looking to collaborate on any interesting projects.
 - 💬 Ask me about baking, my little vegetable garden, ....almost anything.
 - 📫 How to reach me: depinder.saini87@gmail.com
