@@ -12,12 +12,12 @@ Talk to me about
 - Creating REST APIs using **Spring**
 - Adding security to web apps using **Spring**
 - Backend development using **Java**
-- Querying for **Relational Database Management Systems- MySQL, Postgres**
+- Querying for **Relational Database Management Systems- MySQL, PostgreSQL**
 - Solving Data structure and algorithm questions in **Java**
 
 ## About me 🤔
 - I Love ❤️ programming
-- 🌱 I’m currently diving deep 🤓💻 into DSA.
+- 🌱 Currently diving deep 🤓💻 into DSA.
 - 👯 I’m looking to collaborate on any interesting projects.
 - 💬 Ask me about baking, my little vegetable garden, ....almost anything.
 - 📫 How to reach me: depinder.saini87@gmail.com
