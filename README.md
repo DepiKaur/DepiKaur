@@ -15,7 +15,7 @@ Talk to me about
 - Querying for **Relational Database Management Systems- MySQL, PostgreSQL**
 - Solving Data structure and algorithm questions in **Java**
 
-## About me 🤔
+## About me 😊
 - I Love ❤️ programming
 - 🌱 Currently diving deep 🤓💻 into DSA.
 - 👯 I’m looking to collaborate on any interesting projects.
