@@ -16,7 +16,7 @@ Talk to me about
 - Solving Data structure and algorithm questions in **Java**
 
 ## About me 😊
-- I Love ❤️ programming
+- I ❤️ Programming
 - 🌱 Currently diving deep 🤓💻 into DSA.
 - 👯 I’m looking to collaborate on any interesting projects.
 - 💬 Ask me about baking, my little vegetable garden, ....almost anything.
